@@ -19,7 +19,7 @@ buttom.onclick = function geting() {
 
 function weather() {
     // API ключ
-    let apiKey = "2c56d5721281b98d7079f2b1105550bf";
+    let apiKey = "Ваш ключ";
     // Город погода которого нужна
     let city;
     if (localStorage.getItem("test")) {
